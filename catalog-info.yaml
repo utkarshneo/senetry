@@ -5,8 +5,8 @@ metadata:
   description: |
     Backstage is an open-source developer portal that puts the developer experience first.
   annotations:
-    sentry.io/project-slug: takein
+    sentry.io/project-slug: statusneo/takein
 spec:
-  type: website
+  type: library
   owner: CNCF
   lifecycle: experimental
