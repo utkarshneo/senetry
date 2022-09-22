@@ -1,12 +1,10 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: example-senetry
-  description: |
-    Backstage is an open-source developer portal that puts the developer experience first.
+ 
   annotations:
-    sentry.io/project-slug: statusneo/takein
+
+    circleci.com/project-slug: github/utkarshneo/senetry
 spec:
-  type: library
-  owner: CNCF
-  lifecycle: experimental
+  type: service
+  
